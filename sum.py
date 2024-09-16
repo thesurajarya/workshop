@@ -1,5 +1,5 @@
 # Python3 program to add two numbers
-num1 = 50
+num1 = 500
 num2 = 10
 
 # Adding two nos
