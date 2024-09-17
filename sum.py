@@ -10,6 +10,4 @@ product = num3*num2
 print("Sum of", num1, "and", num2 , "is", sum)
 print(product)
 
-while num3 == 90:
-    print("Changes by Suraj Arya")
-    num3 = num3 + 1
+print("My experience in CIC is going very smooth and i and very excited to spend my next 4 years here.")
