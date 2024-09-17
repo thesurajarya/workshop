@@ -9,3 +9,5 @@ product = num3*num2
 # printing values
 print("Sum of", num1, "and", num2 , "is", sum)
 print(product)
+
+print("My experience in CIC is going very smooth and i and very excited to spend my next 4 years here.")
